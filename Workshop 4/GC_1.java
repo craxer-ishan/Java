@@ -2,7 +2,7 @@ import java.util.HashSet;
   public class GC_1 {
   public static void main(String[] args) {
      // Create a empty hash set
-     HashSeth_set = new HashSet();
+     HashSet<String> h_set = new HashSet<String>();
    // use add() method to add values in the hash set
           h_set.add("Red");
           h_set.add("Green");
